@@ -1,5 +1,6 @@
 {
   "name": "games",
+  "homepage": "https://jeremie-aubrejat.github.io/reactTest/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,4 +41,5 @@
     "cross-env": "^7.0.3",
     "tailwindcss": "^3.4.1"
   }
+ 
 }

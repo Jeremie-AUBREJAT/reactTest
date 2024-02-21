@@ -51,7 +51,7 @@ function App() {
     element: <MyShop/>
   },
 
-  ], { basename: "/" })
+  ], { basename: "/reactTest" })
   const [dataLoaded, setDataLoaded] = useState(false);
   useEffect(() => {
     if (dataLoaded) {
